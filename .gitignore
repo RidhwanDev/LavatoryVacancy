@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/LavatoryVacancy/v15
+/LavatoryVacancy/LavatoryVacancy/obj
+/LavatoryVacancy/LavatoryVacancy.Android/obj
+/LavatoryVacancy/LavatoryVacancy.iOS/obj
